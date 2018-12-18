@@ -1,7 +1,5 @@
 #include <cstring>
 
-constexpr int size = 5;
-
 namespace queuewithlinkedlist
 {
 
